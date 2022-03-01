@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend, advising in this extraordinary juncture, how to free the nation from slavery forever.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97903</idno>
+            <idno type="OCLC"> 15667104</idno>
+            <idno type="STC">Wing L1638</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[211]</idno>
+            <idno type="STC">ESTC R36349</idno>
+            <idno type="EEBO-CITATION">99890211</idno>
+            <idno type="PROQUEST">ocm99890211</idno>
+            <idno type="VID">171360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend, advising in this extraordinary juncture, how to free the nation from slavery forever.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper at the Bell in Fleetstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <head>A Letter to a FRIEND, <hi>Adviſing in this extraordinary Juncture, how to free the Nation from SLAVERY for ever.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Doubt not but the Wiſdom of the Nation will take the moſt effectual way to ſecure our <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> our <hi>Liberties</hi> and <hi>Property.</hi> However, being a Lover of all theſe, I can't forbear com<g ref="char:EOLhyphen"/>municating my Thoughts unto you with an aſſurance you'l conſider them.</p>
+            <p>God hath done great things for us, and yet the greateſt thing is not yet done; There are many difficulties in the way, and many more will be thrown into it <hi>Slavery</hi> is moſt to be dreaded at this time: What is done muſt be <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> guard againſt it. How to do it is the principal buſineſs of the great Men in the next <hi>Convention.</hi> To know where we are is the firſt ſtep to be taken. Is the Government diſſolved, or only under ſome Diſorders? If the later, Are the Diſorders ſuch as muſt be laid to the charge of the King, or to his Miniſters, or both? If to the King, Are they ſufficient to depoſe him? If that be done, Are we more ſecure from <hi>Slavery</hi> than now? Will there be more than a change of Perſons in the <hi>Throne;</hi> A Child for a Father, a Pro<g ref="char:EOLhyphen"/>teſtant for a Papiſt? And in a few years the Succeſſion may fall to the Queen of <hi>Spain,</hi> or Dut<g ref="char:EOLhyphen"/>cheſs of <hi>Savoy,</hi> both Roman Catholicks, and we in as great, or greater danger of <hi>Popery</hi> and <hi>Slavery</hi> than we were the other day; the Conſtitution remains he ſame, the <hi>Jura Majeſtatis,</hi> viz. the <hi>Militia;</hi> the Power to make War or Peace; the chooſing Judges, Sheriffs, <hi>&amp;c.</hi> ſtill in the Perſon of the King; or if only by one Parliament reſtored to the People, another Parliament may give them the King again. <hi>Leges Poſteriores priores abrogant.</hi> And who can tell what Conteſts there may be about the Right of the Crown. The depoſed Prince is alive, and his Right by Sword will be diſputed, <hi>&amp;c.</hi>
+            </p>
+            <p>If the Government be diſſolved, the power devolves on the People; no one can claim the Crown; the Royal Family is as it were extinct; the People may ſet up what Government they pleaſe, either the <hi>Old or New.</hi> A Monarchy abſolute, or limited; or <hi>Democracy</hi> or <hi>Ariſtocracy.</hi> If a <hi>Monar<g ref="char:EOLhyphen"/>chy</hi> limited, ſuppoſing it moſtly ſuited to the temper of the <hi>Engliſh,</hi> they may chuſe what Fami<g ref="char:EOLhyphen"/>ly they pleaſe to ſit in the Throne: They may ſettle it on the <hi>Princeſs of Orange, Princeſs Ann,</hi> the <hi>Prince of Orange,</hi> and for want of Iſſue, on whom elſe they think meet. Theſe hold not by vertue of an <hi>old right,</hi> but by reaſon of the Peoples placing it on 'em, and the <hi>Monarchy</hi> may be thus <hi>de Novo</hi> made it Hereditary, and the <hi>King and Prince of Wales</hi> gone, having loſt their Right by the Diſſolution of the <hi>Government.</hi> The <hi>Jura Majeſtatis,</hi> the <hi>Militia,</hi> the <hi>power of War and Peace,</hi> or <hi>the Power of the Sword,</hi> with the Power of making Judges, Sheriffs, <hi>&amp;c.</hi> may be lodged where now the Power of Legiſlation is, <hi>viz.</hi> in King, Lords, and Commons, which will neceſſitate fre<g ref="char:EOLhyphen"/>quent <hi>Parliaments,</hi> and make it impoſſible for the Monarch to enſlave us. There are but two ways by which <hi>ſlavery</hi> can be brought on us, <hi>viz. Force,</hi> or <hi>Injuſtice.</hi> The <hi>Militia,</hi> or power of the ſword being in the People, we are ſecured from the miſchief of <hi>Force.</hi> The Power of mak<g ref="char:EOLhyphen"/>ing Judges and all the Miniſters of Juſtice being alſo in the People, they cannot be ruin'd by Injuſtice.</p>
+            <pb n="2" facs="tcp:171360:2"/>
+            <p> But we muſt do no Evil, that Good may come of it. Is our Government diſſolved, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is it not? If there be a Diſſolution, Is it of the Conſtitution, or only of the Form of Adminiſtrati<g ref="char:EOLhyphen"/>on? I confeſs my ſelf not Stateſman enough to be acquainted with the Fineneſs of Politicks, but am apt to run the old Road, and pleaſe my ſelf with an old diſtinction, All Power is <hi>Original<g ref="char:EOLhyphen"/>ly;</hi> or <hi>Fundamentally</hi> in the People <hi>Formally</hi> in the <hi>Parliament,</hi> which is one Corporation made up of three <hi>Conſtituent Eſſentiating</hi> Parts, King, Lords and Commons, ſo it was with us in <hi>England</hi> When this Corporation is broken, when any one Eſſentiating Part is loſt or gone, there is a Diſſolution of the Corporation. The <hi>Formal</hi> ſeat of <hi>Power,</hi> and that <hi>Power</hi> devolves on the Peo<g ref="char:EOLhyphen"/>ple. When it's impoſſible to have a Parliament, the Power returns to them with whom it was originally. Is it poſſible to have a Parliament? It's not poſſible. The Government therefore is diſſolv'd.</p>
+            <p>If what is eſſential to our Conſtitution be invaded or Raviſhed from us, the Conſtitution is broken. I will inſtance in two things eſſential to the Conſtitution, That the People chooſe thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own <hi>Repreſentatives.</hi> And that their <hi>Repreſentatives</hi> have ſuch an intereſt in the <hi>Legiſlation,</hi> that n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Laws be made, or Abrogated <hi>without their Conſent.</hi> The deſtroying <hi>one</hi> or <hi>both</hi> of theſe, ſubverts the Government: The Prince's aſſuming to himſelf the Power of electing Parliament Men, or his texerciſing the <hi>Legiſtative power,</hi> though under the Name of the <hi>Diſpenſing power,</hi> is a deſtroying thoſe Rights of the People that are eſſential to our Conſtitution, and a diſſolving it.</p>
+            <p>The Government being diſſolved, <hi>What muſt the People do?</hi> Care muſt be taken that the Go<g ref="char:EOLhyphen"/>vernment to be erected be ſuch as will perfectly ſecure us from <hi>ſlavery;</hi> and be a fence inviolable to the <hi>Liberty and Property</hi> of the People: And the Rights of Majeſty muſt be therefore lodged with the <hi>Parliament;</hi> this will be grateful to the People. The way of doing it muſt be <hi>Great, Awful,</hi> and <hi>Auguſt,</hi> that none may be able to quarrel it. A National Convention made up of the <hi>Re<g ref="char:EOLhyphen"/>preſentatives</hi> of the Community: That the Convention may be truly National, and repreſent the Community, it muſt be larger than a Houſe of Commons ordinarly is. It's this Conven<g ref="char:EOLhyphen"/>tion that ſets up what kind of Government they pleaſe. If they'l have a Parliament made up of King, Lords and Commons, it's ſufficient that this Convention is ſo pleaſed. The Power of this Convention muſt be abſolute and uncontrolable, accountable to none but GOD. It gives Laws to Kings, yea to the whole Parliament, and ſets bounds unto it; it ſhall go ſo far, and no farther. No Act of Parliament can be ſtrong enough to move the Foundation laid by this Convention. The Convention therefore <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> has more Power than a <hi>Parliament,</hi> and is it's <hi>Creator,</hi> it muſt have a larger Body. What think you therefore if the firſt thing done by the approaching Convention be the increaſing their Number. What if they double it? Whether by ordering every Market-Town to ſend up their Repreſentatives, Or every Hundred, Wapen<g ref="char:EOLhyphen"/>take, <hi>&amp;c.</hi> or by ſome other way, according to the proportion of People, and publick pay<g ref="char:EOLhyphen"/>ments, as the Wiſe Men of this Convention ſhall judge moſt practicable, that it may be the <hi>Grand Council</hi> of the Nation. I have unburdened my ſelf, and am</p>
+            <closer>
+               <signed>Your humble Servant,</signed> 
+               <dateline>
+                  <date>Jan. 5. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Abel Roper,</hi> at the <hi>Bell</hi> in <hi>Fleet-ſtreet,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
